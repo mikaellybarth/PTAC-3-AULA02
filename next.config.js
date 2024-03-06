@@ -3,9 +3,14 @@ const nextConfig = {
 
     images:{
         domains:[
-            "www.ifms.edu.br"
+            "www.ifms.edu.br",
+            "https://ead.ifms.edu.br"
+        
         ]
     }
 }
+
+
+
 
 module.exports = nextConfig
