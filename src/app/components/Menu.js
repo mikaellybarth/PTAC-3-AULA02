@@ -9,7 +9,7 @@ export default function Menu(){
             width={100}
             height={100}
             src={"https://www.ifms.edu.br/marcaifms.png"}  />
-            <h1>Menu</h1>
+            <h1></h1>
             <nav>
                 <ul>
                     <Link href="/">
