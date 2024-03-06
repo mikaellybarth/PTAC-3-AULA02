@@ -1,11 +1,13 @@
 import Link from 'next/link';
+import styles from './not-found.module.css';
 
 
 export default function NotFound(){
     return (
     <div>
-        <h1>Error</h1>
-        <Link href = "/">ERRO!</Link>
+        
+        <h1 className={styles.card}>ERRO!! ESTA PAGINA NÃO EXISTE.</h1>
+        <Link href = "/"></Link>
     </div>
     )
 }

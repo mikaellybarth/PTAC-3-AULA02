@@ -11,9 +11,9 @@ export default function Footer(){
              <Image
             width={100}
             height={100}
-            src={"https://moodle.org/theme/moodleorg/pix/moodle_logo_TM.svg"}  />
+            src ={"https://moodle.org/theme/moodleorg/pix/moodle_logo_TM.svg"}  />
             </Link>
-            <h1>Rodapé</h1>
+            <h1></h1>
            
         </footer>
     )
