@@ -1,4 +1,4 @@
-const url = "https://back-end-ifms2.vercel.app";
+const url = "https://back-end-ifms2.vercel.app/campi";
 
 export default async function Home() {
 
