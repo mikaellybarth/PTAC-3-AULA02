@@ -1,4 +1,4 @@
-//fazer link vesel
+//fazer link vercel
 const url = "https://back-end-ifms2.vercel.app/campi";
 
 export default async function Home() {
