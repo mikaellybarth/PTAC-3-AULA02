@@ -1,5 +1,5 @@
 //fazer link vercel
-const url = "https://back-end-ifms2.vercel.app/campi";
+const url = "https://back-end-ifms-nine-rosy.vercel.app/";
 
 export default async function Home() {
 
